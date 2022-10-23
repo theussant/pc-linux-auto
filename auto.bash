@@ -27,6 +27,11 @@ echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=
 sudo apt update
 sudo apt install brave-browser
 
+# Install Notion
+wget https://notion.davidbailey.codes/notion-linux.repo
+sudo mv notion-linux.repo /etc/zypp/repos.d/notion-linux.repo
+sudo zypper install notion-desktop
+
 # Install tweaks
 sudo apt install gnome-tweaks
 sudo apt install gnome-tweak-tool
