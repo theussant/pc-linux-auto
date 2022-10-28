@@ -1,7 +1,7 @@
 # !/bin/bash
 
-# chmod +x setup-pc.bash
-# ./setup-pc.bash
+# chmod +x auto.bash
+# ./auto.bash
 
 # Made for Ubuntu 20.04
 
