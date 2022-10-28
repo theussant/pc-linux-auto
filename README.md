@@ -9,4 +9,7 @@ Ubuntu 20.04
 3. Vscode
 4. Brave Browser
 5. Notion
-6. Tweaks
+6. Spotify
+7. Tweaks
+8. Arc Theme
+9. Arc Icons
